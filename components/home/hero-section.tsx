@@ -65,13 +65,7 @@ export function HeroSection() {
     >
       {/* Background Image */}
       <div ref={imageRef} className="absolute inset-0">
-        {/* <Image
-          src="/images/hero-makeup.jpg"
-          alt="Luxury makeup collection"
-          fill
-          className="object-cover opacity-60"
-          priority
-        /> */}
+     
         <div ref={imageRef} className="absolute inset-0 overflow-hidden">
           <video
             autoPlay
@@ -84,12 +78,12 @@ export function HeroSection() {
           </video>
 
           {/* Dark overlay for readable text */}
-          <div className="absolute inset-0 bg-black/50" />
+          {/* <div className="absolute inset-0 bg-black/10" /> */}
 
           {/* Optional gradient */}
-          <div className="absolute inset-0 bg-gradient-to-r from-secondary via-secondary/80 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-r from-secondary via-secondary/50 to-transparent" />
         </div>
-        <div className="absolute inset-0 bg-gradient-to-r from-secondary via-secondary/80 to-transparent" />
+        {/* <div className="absolute inset-0 bg-gradient-to-r from-secondary via-secondary/40 to-transparent" /> */}
       </div>
 
       {/* Content */}
