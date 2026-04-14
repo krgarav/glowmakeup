@@ -87,7 +87,7 @@ export function FeaturesSection() {
         <div ref={headerRef} className="text-center">
           <p className="text-sm uppercase tracking-[0.3em] text-primary">Why Choose Us</p>
           <h2 className="mt-4 font-serif text-4xl font-bold text-foreground md:text-5xl">
-            <span className="text-balance">The OEM & ODM Difference</span>
+            <span className="text-balance">The Glowgavin Overseas Difference</span>
           </h2>
         </div>
 
