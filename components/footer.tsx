@@ -64,10 +64,10 @@ export function Footer() {
           <div className="lg:col-span-2">
             <Link href="/" className="flex items-center gap-2">
               <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary">
-                <span className="font-serif text-lg font-bold text-primary-foreground">L</span>
+                <span className="font-serif text-lg font-bold text-primary-foreground">G</span>
               </div>
               <span className="font-serif text-2xl font-bold tracking-tight">
-                OEM <span className="text-primary">&</span> ODM
+               GLOWGAVIN OVERSEAS PVT LTD
               </span>
             </Link>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-muted-foreground">
@@ -143,7 +143,7 @@ export function Footer() {
       <div className="border-t border-primary/20">
         <div className="mx-auto max-w-7xl px-4 py-6">
           <div className="flex flex-col items-center justify-between gap-4 text-center text-xs text-muted-foreground md:flex-row">
-            <p>&copy; {new Date().getFullYear()} OEM & ODM. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Glowgavin Overseas Pvt Ltd. All rights reserved.</p>
             <div className="flex gap-6">
               <Link href="/privacy" className="transition-colors hover:text-primary">
                 Privacy Policy

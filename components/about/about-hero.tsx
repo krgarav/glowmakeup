@@ -39,7 +39,7 @@ export function AboutHero() {
             <span className="text-balance">Glowgavin Overseas</span>
           </h1>
           <p className="mt-8 text-xl leading-relaxed text-muted-foreground">
-            Glowgavin Overseas Pvt. Ltd Gain cosmetics Co. Ltd. (China) cosmetics provide the best solution for your makeup brand. We manage the process from concept to delivery so you can focus on your business.
+            Glowgavin Overseas Pvt. Ltd.(India), Gain cosmetics Co. Ltd. (China) cosmetics provide the best solution for your makeup brand. We manage the process from concept to delivery so you can focus on your business.
           </p>
         </div>
       </div>
