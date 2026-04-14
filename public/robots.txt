@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ggmakeupworld.com
+
+# Sitemaps
+Sitemap: https://ggmakeupworld.com/sitemap.xml
